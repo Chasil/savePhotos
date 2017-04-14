@@ -1,0 +1,11 @@
+.ch_selects {
+	width: auto !important;
+	padding: 0.4em !important;
+	display: inline-block !important;
+	cursor: pointer;
+}
+
+.savePhotos {
+	margin-left: 5px !important;
+	padding: 0.85em !important;
+}
